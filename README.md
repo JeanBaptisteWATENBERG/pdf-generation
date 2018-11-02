@@ -6,7 +6,7 @@ See src/main/resources/Roboto-Regular.ttf
 
 ```HTML
 <body style="font-family: Roboto;">
-&é"'(-è_çà
+é"'(-è_çà
 </body>
 ```
 
